@@ -1,0 +1,52 @@
+DATABASE
+DBMS/ RDBMS(R: Relational)
+MySQL is named after co-founder Monty Widenius's daughter: My
+Structure Query Language (SQl Stand)
+
+RDBMS stands for Relational Database Management System.
+
+RDBMS is a program used to maintain a relational database.
+
+RDBMS is the basis for
+ all modern database systems such as MySQL, Microsoft SQL Server, Oracle, and Microsoft Access.
+
+
+define DATA (meaningfull info, facts/ figure)
+Query types 2
+DDL, DML
+Data Defination Language (structure)
+Data manuplating Language
+
+Database structure (DDL commands)
+commands:
+create
+alter (alter command: add, modify, rename, change)
+Trunclate
+Drop
+
+
+DML commands
+Insert
+update
+delete
+select
+
+
+Lecture assignment (create 03 x tables)
+Feculty: id (int), name (varchar), course id(int)
+Course: id, name
+Student: id, name, email, phone, feculty id 
+
+
+Entities:
+ERD: Entry Relational Diagram
+
+for relation building we use foreign key (accept null value, more than 1 key)
+
+
+
+
+
+
+
+
